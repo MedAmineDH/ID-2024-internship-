@@ -1,0 +1,7 @@
+C:\Users\amineDH\Desktop\insta\ID-2024-internship-\PhoneBook App\PhoneBook App\bin\Debug\PhoneBook App.exe.config
+C:\Users\amineDH\Desktop\insta\ID-2024-internship-\PhoneBook App\PhoneBook App\bin\Debug\PhoneBook App.exe
+C:\Users\amineDH\Desktop\insta\ID-2024-internship-\PhoneBook App\PhoneBook App\bin\Debug\PhoneBook App.pdb
+C:\Users\amineDH\Desktop\insta\ID-2024-internship-\PhoneBook App\PhoneBook App\obj\Debug\PhoneBook App.csproj.AssemblyReference.cache
+C:\Users\amineDH\Desktop\insta\ID-2024-internship-\PhoneBook App\PhoneBook App\obj\Debug\PhoneBook App.csproj.CoreCompileInputs.cache
+C:\Users\amineDH\Desktop\insta\ID-2024-internship-\PhoneBook App\PhoneBook App\obj\Debug\PhoneBook App.exe
+C:\Users\amineDH\Desktop\insta\ID-2024-internship-\PhoneBook App\PhoneBook App\obj\Debug\PhoneBook App.pdb
